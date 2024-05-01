@@ -1,0 +1,14 @@
+jose, cruz,dadw
+pedro, alberto,adeda
+jose, cruz, utrera, daw213
+cruz, , , 
+end, d, d, d
+zA, AS, AS, AS
+hjha, as, as, as
+jose, cruz, uyau, asxsa
+asds, asdas, asdsa, adsad
+dsda, asdasd, adsad, adsd
+s, s, as, a
+as, & "C:/Users/Jose Cruz/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/Jose Cruz/Documents/GitHub/Python/ejercicio.py", 1, e
+2e, 33, 132, 1231
+swa, aws, wad, +58424127059

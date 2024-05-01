@@ -1,0 +1,11 @@
+from tkinter import *
+raiz = Tk()
+raiz.title("Bienvenido")
+raiz.iconbitmap("jdk.ico")
+#raiz.geometry("800x500")
+raiz.resizable(0,0)
+raiz.config(bg="black")
+Frame=Frame()
+Frame.pack(fill="both",expand=True)
+Frame.config(width="800",height="500", bg="black",cursor="hand2")
+raiz.mainloop()
