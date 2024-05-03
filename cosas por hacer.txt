@@ -1,6 +1,23 @@
-hacer que se repita el inicio
 agregar numeracion a la lista txt
 editar lineas de registro en el txt
-nombre y apellido no permitir numeros
-validar correo electronico
 verificar que el correo electronico no se repita en el txt
+
+
+Crea un programa que le pida al usuario
+
+  listar todos los usuarios, buscar un usuario por correo,
+  eliminar un usuario por correo o detener el programa,
+  antes de crear un usuario se debe de validar
+  que el correo no exista en el archivo.
+
+  este programa debe ser orientado a objetos es decir, debes de tener una clase
+
+  opcional: al registrar un usuario, debes enviarle un mensaje de whatsapp y un
+  correo electronico al usuario registrado dandole la bienvenida.
+
+  Opcional: Crear una interfaz grafica para el programa.
+
+  Opcional: Hacer de este programa un .exe para que pueda ser ejecutado en cualquier
+  computadora.
+
+  Fecha de entrega: Viernes 03 de mayo del 2024

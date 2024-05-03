@@ -29,7 +29,7 @@ print(lista)
 tupla = (10, 20, 30, 40)
 print(tupla)
 #Diccionarios
-diccionario = {
+diccionario= {
   "nombre": "Juan",
   "edad": 30
 }
